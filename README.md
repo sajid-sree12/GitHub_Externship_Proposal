@@ -14,7 +14,7 @@
 - [x] CSS
 - [x] XML
 - [x] Kotlin
-- [x] Android Stuio
+- [x] Android Studio
 - [x] Python
 - [x] Basics of C language
 - [x] Github
@@ -122,17 +122,17 @@
 
 |  Date      | MileStone 
 | ------------- |:-------------|
-| January 10     | Interaction with Respective Mentors.  Dicussing About the Project and resources available.
+| January 10     | Interaction with Respective Mentors.  Discussing About the Project and resources available.
 |January 11|      Gathering the required details and the preparing to start the project. |
 | January 12|  Finalizing the required Software and all the resources required to complete the project.
 |January 20 | Update with the assigned task.
 |January 31 | Update with the Project work flow.
-|February 15|  Detailed Monlthy Report on assigned work.
+|February 15|  Detailed Monthly Report on assigned work.
 |March 15| Completion of Project and discussing about the project with mentors for any additons and substactions.
 |March 16|Going through the odds in project.
 |April 15| Submission of Completed Project. 
 
 ---
-## **Benifits**
+## **Benefits**
 By this project, work load will be reduced as I am familiar with Android Studio, XML and Kotlin. My programing skills in Python, C might be helpful if there is any sudden need. 
-As I get habituated to work environment, communication interuption in work will not occur.
+As I get habituated to work environment, communication interruption in work will not occur.
