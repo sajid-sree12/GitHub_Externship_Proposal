@@ -18,6 +18,9 @@
 - [x] Python
 - [x] Basics of C language
 - [x] Github
+- [x] Java Script
+- [x] Node Js
+- [x] React js
 
 ---
 
